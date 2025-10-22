@@ -10,7 +10,7 @@ I'm a computer science student pursuing my Bachelor's degree at EPFL. Passionate
 
 ## 🚀 Projects
 
-* [Privacy App](https://github.com/Derdev74/Privacy-App)) <!-- Assuming this is the link, please update if incorrect -->
+* [Privacy App](https://github.com/Derdev74/Privacy-App) <!-- Assuming this is the link, please update if incorrect -->
   *Python* <!-- Placeholder languages, please update -->
    A local-first automation tool to help exercise your data deletion rights (GDPR & CCPA) across online services..
 
