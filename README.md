@@ -11,8 +11,8 @@ I'm a computer science student pursuing my Bachelor's degree at EPFL. Passionate
 ## 🚀 Projects
 
 * [Privacy App](https://www.google.com/search?q=https://github.com/Derdev74/Privacy-App) <!-- Assuming this is the link, please update if incorrect -->
-  *Python, JavaScript* <!-- Placeholder languages, please update -->
-  An application focused on enhancing user privacy.
+  *Python* <!-- Placeholder languages, please update -->
+   A local-first automation tool to help exercise your data deletion rights (GDPR & CCPA) across online services..
 
 * [CS50-Final-Project](https://github.com/Derdev74/CS50-Final-Project)
 
