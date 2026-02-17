@@ -36,7 +36,7 @@ I'm a computer science student pursuing my Bachelor's degree at EPFL. Passionate
 
 ## 🌐 Connect with Me
 
-* [LinkedIn: Ayoub Derdabi](https://www.linkedin.com/in/ayoub-derdabi)
+* [LinkedIn: Ayoub Derdabi] (https://www.linkedin.com/in/ayoub-derdabi)
 
 * Email: derdabiayoub14@gmail.com
 
