@@ -15,7 +15,7 @@ Notices when you look away during an online meeting and recaps what was said mea
 
 ### [FinTrack](https://github.com/Derdev74/CS50-Final-Project): personal finance web app · *CS50 final project, 2025*
 
-Budgets, transactions and savings goals, with a focus on security: bcrypt password hashing, Google OAuth 2.0, CSRF protection, rate limiting and account lockout, audit log; 70+ tests.
+Budgets, transactions and savings goals, with a focus on security: salted password hashing (PBKDF2), Google OAuth 2.0, CSRF protection, rate limiting and account lockout, audit log; 70+ tests.
 
 `Python` `Flask` `SQLite` `pytest`
 
