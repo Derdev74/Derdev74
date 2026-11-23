@@ -1,43 +1,50 @@
 # Hi, I'm Ayoub Derdabi 👋
 
-I'm a computer science student pursuing my Bachelor's degree at EPFL. Passionate about coding and problem-solving, I enjoy building impactful projects and collaborating with others in the tech community.
-
-## 🧑‍💻 Skills
-
-* Languages: Python, JavaScript, HTML
-
-* Interests: Software development, web technologies, automation
+Second-year Computer Science student at **EPFL** (Lausanne, Switzerland), heading towards a master's in **cybersecurity**.
+I'm interested in security and privacy, and in how to make software that ordinary people (not only experts) can trust.
 
 ## 🚀 Projects
 
-* [Privacy App](https://github.com/Derdev74/Privacy-App) <!-- Assuming this is the link, please update if incorrect -->
-  *Python* <!-- Placeholder languages, please update -->
-   A local-first automation tool to help exercise your data deletion rights (GDPR & CCPA) across online services..
+### [Tap](https://github.com/Thibaud-Babin/Edgrunners_hackathon): AI meeting assistant · *LauzHack 2026, team of 5*
 
-* [CS50-Final-Project](https://github.com/Derdev74/CS50-Final-Project)
+Notices when you look away during an online meeting and recaps what was said meanwhile.
 
-  *Python, HTML* Final project for CS50, showcasing my skills in Python and web development.
+**My part:** the agent layer and integration. Four agents on a validated event bus with one isolated LLM, and protection against prompt injection: whatever is said in the meeting can never make the AI trigger an action (schema validation, action allowlist, provenance checks, role-based permissions).
 
-* [Prayer_reminder](https://github.com/Derdev74/Prayer_reminder)
+`TypeScript` `Electron` `Claude API` `Zod`
 
-  *JavaScript, HTML* A useful extension for prayer times in Lausanne.
+### [FinTrack](https://github.com/Derdev74/CS50-Final-Project): personal finance web app · *CS50 final project, 2025*
 
-* [Java_Study_Guide](https://github.com/Derdev74/Java_Study_Guide)
+Budgets, transactions and savings goals, with a focus on security: bcrypt password hashing, Google OAuth 2.0, CSRF protection, rate limiting and account lockout, audit log; 70+ tests.
 
-  *JavaScript, HTML* Study guide resources for Java.
+`Python` `Flask` `SQLite` `pytest`
 
-## 🏆 Hackathon Experience
+### [Privacy App](https://github.com/Derdev74/Privacy-App): GDPR/CCPA data deletion tool · *2025*
 
-* Participated in a hackathon where we built [the-webcast](https://github.com/maliknie/the-webcast)—an innovative webcast platform using Python and Docker.
+Finds the services that hold your data from your inbox, looks up their privacy contacts and sends right-to-erasure requests.
 
-* We added live research capabilities to a Swiss open-source model named APERTUS and implemented a text-to-speech feature.
+`Python` `PostgreSQL` `Gmail API`
 
-* Our team achieved **TOP 6** in the competition!
+### [Just Travel](https://github.com/Derdev74/Gemini_Hackaton): multi-agent travel planner · *Devpost × Google Gemini hackathon, 2026*
 
-## 🌐 Connect with Me
+Six AI agents (flights, weather, budget…) coordinate to build a trip plan; caching, offline mode, Docker; 84 tests.
 
-* [LinkedIn: Ayoub Derdabi](https://www.linkedin.com/in/ayoub-derdabi)
+`FastAPI` `Gemini` `Redis` `Docker` `Next.js`
 
-* Email: derdabiayoub14@gmail.com
+### [Apertus web search and audio](https://github.com/maliknie/the-webcast) · *LauzHack 2025, top 6*
 
-*Always learning, building, and seeking new challenges!*
+Team project adding live web search and text-to-speech to Apertus, the Swiss open language model.
+
+`Python` `Docker` `Hugging Face`
+
+## 🧑‍💻 Skills
+
+- **Good:** Python, Java, SQL, Docker
+- **Learning:** Scala
+- **Basic:** C, JavaScript, TypeScript
+- **Tools:** Flask, FastAPI, PostgreSQL, Redis, SQLite, pytest, Git
+
+## 🌐 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/ayoub-derdabi)
+- Email: derdabiayoub14@gmail.com
