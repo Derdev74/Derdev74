@@ -35,6 +35,8 @@ Six AI agents (flights, weather, budget…) coordinate to build a trip plan; cac
 
 Team project adding live web search and text-to-speech to Apertus, the Swiss open language model.
 
+**My part:** the text-to-speech module (ElevenLabs), which reads the model's answers aloud.
+
 `Python` `Docker` `Hugging Face`
 
 ## 🧑‍💻 Skills
